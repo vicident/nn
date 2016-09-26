@@ -2,7 +2,7 @@
 <a name="nn.dok"></a>
 # Neural Network Package #
 
-This fork includes an old brute-force implementation of 2D convolutions: nn.SpatialConvolutionClassic. Feedforward operation only is available at the moment for this layer.
+This fork includes an old brute-force implementation of 2D convolutions: nn.SpatialConvolutionClassic. Only feedforward operation is available for this layer now.
 
 ## Make and install package
 ```
