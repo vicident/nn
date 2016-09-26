@@ -2,4 +2,9 @@
 <a name="nn.dok"></a>
 # Neural Network Package #
 
-This fork includes old brute-force implementation of 2D convolutions: nn.SpatialConvolutionClassic. Feedforward operation only is available at the moment.
+This fork includes old brute-force implementation of 2D convolutions: nn.SpatialConvolutionClassic. Feedforward operation only is available at the moment for this layer.
+
+## Make and install package
+```
+luarocks make --local rocks/nn-scm-1.rockspec
+```
